@@ -26,17 +26,6 @@ A full-stack real-time chat application built using the **MERN** stack (MongoDB,
 
 -----
 
-## 📂 Project Structure
-
-```
-/client       # React Frontend
-/server       # Node.js + Express Backend
-/server/db    # MongoDB Connection & Models
-/server/socket # Socket.IO Setup
-```
-
------
-
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the Repository
